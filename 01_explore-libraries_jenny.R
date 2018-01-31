@@ -1,5 +1,7 @@
 #' ---
-#' output: github_document
+#' output: 
+#'   word_document: 
+#'     keep_md: true
 #' title: Tidy version of Jenny's code
 #' author: "Mik Black"
 #' date: "2 Jan 2018"
