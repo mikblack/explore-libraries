@@ -1,5 +1,7 @@
 ---
 output: 
+  html_document: default
+  pdf_document: default
   word_document: 
     keep_md: true
 title: Tidy version of Jenny's code
@@ -12,26 +14,7 @@ date: "2 Jan 2018"
 ## Load packages
 library(fs)
 library(tidyverse)
-```
 
-```
-## ── Attaching packages ─────────────────────────────────────────────────────────── tidyverse 1.2.1 ──
-```
-
-```
-## ✔ ggplot2 2.2.1     ✔ purrr   0.2.4
-## ✔ tibble  1.4.2     ✔ dplyr   0.7.4
-## ✔ tidyr   0.8.0     ✔ stringr 1.2.0
-## ✔ readr   1.1.1     ✔ forcats 0.2.0
-```
-
-```
-## ── Conflicts ────────────────────────────────────────────────────────────── tidyverse_conflicts() ──
-## ✖ dplyr::filter() masks stats::filter()
-## ✖ dplyr::lag()    masks stats::lag()
-```
-
-```r
 ## how jenny might do this in a first exploration
 ## purposely leaving a few things to change later!
 ```
@@ -628,7 +611,7 @@ devtools::session_info()
 ##  setting  value                       
 ##  version  R version 3.4.3 (2017-11-30)
 ##  system   x86_64, darwin15.6.0        
-##  ui       X11                         
+##  ui       RStudio (1.1.419)           
 ##  language (EN)                        
 ##  collate  en_NZ.UTF-8                 
 ##  tz       Pacific/Auckland            
@@ -717,5 +700,5 @@ devtools::session_info()
 ---
 title: "01_explore-libraries_jenny.R"
 author: "black"
-date: "Thu Feb  1 11:39:17 2018"
+date: "Thu Feb  1 12:28:54 2018"
 ---

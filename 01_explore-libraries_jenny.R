@@ -1,5 +1,7 @@
 #' ---
 #' output: 
+#'   html_document: default
+#'   pdf_document: default
 #'   word_document: 
 #'     keep_md: true
 #' title: Tidy version of Jenny's code
