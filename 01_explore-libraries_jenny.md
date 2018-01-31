@@ -1,6 +1,6 @@
 ---
 output: 
-  html_document: default
+  github_document: default
   pdf_document: default
   word_document: 
     keep_md: true
@@ -700,5 +700,5 @@ devtools::session_info()
 ---
 title: "01_explore-libraries_jenny.R"
 author: "black"
-date: "Thu Feb  1 12:28:54 2018"
+date: "Thu Feb  1 12:47:46 2018"
 ---

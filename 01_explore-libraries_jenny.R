@@ -1,6 +1,6 @@
 #' ---
 #' output: 
-#'   html_document: default
+#'   github_document: default
 #'   pdf_document: default
 #'   word_document: 
 #'     keep_md: true
