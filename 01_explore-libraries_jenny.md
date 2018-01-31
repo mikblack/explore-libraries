@@ -1,7 +1,7 @@
 01\_explore-libraries\_jenny.R
 ================
 black
-Thu Feb 1 11:20:29 2018
+Thu Feb 1 11:23:14 2018
 
 ``` r
 ## how jenny might do this in a first exploration
