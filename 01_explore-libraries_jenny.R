@@ -1,6 +1,8 @@
 #' ---
 #' output: github_document
 #' title: Tidy version of Jenny's code
+#' author: "Mik Black"
+#' date: "2 Jan 2018"
 #' ---
 
 ## Load packages
@@ -47,7 +49,6 @@ ipt %>%
 ## reflect on ^^ and make a few notes to yourself; inspiration
 ##   * does the number of base + recommended packages make sense to you?
 ##   * how does the result of .libPaths() relate to the result of .Library?
-
 
 #' Going further
 
