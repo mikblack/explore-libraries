@@ -1,6 +1,8 @@
 # explore-libraries
 Demo repo for RStudio workshop
 
+Edit from Github
+
 New edit
 
 Edit from GitHub
